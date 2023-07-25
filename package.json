@@ -1,6 +1,6 @@
 {
-  "homepage": "http://phillipmaire.github.io/developerFolio",
-  "name": "developerfolio",
+  "homepage": "http://phillipmaire.github.io/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
