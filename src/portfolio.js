@@ -52,7 +52,7 @@ const skillsSection = {
   subTitle: "Everything data! Modeling, MLOps, smart model selection, data engineering, visualization and more",
   skills: [
     emoji(
-      "⚡ Project Scoping and pipeline design"
+      "⚡ Project scoping and pipeline design"
     ),
     emoji(
       "⚡ Clean and optimize data for model based solutions"
