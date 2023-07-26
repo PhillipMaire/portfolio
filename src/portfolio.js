@@ -78,7 +78,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-cogs"
     },
     {
-      skillName: "Deep learning",
+      skillName: "Machine learning",
       fontAwesomeClassname: "fas fa-robot"
     },
     { 
