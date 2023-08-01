@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/phillipmaire/",
-  linkedin: "https://www.linkedin.com/in/phillip-maire-ba17a4b6/",
+  linkedin: "https://www.linkedin.com/in/phillipmaire/",
   gmail: "deep.data.phil@gmail.com",
   // gitlab: "____________",
   // facebook: "____________",
@@ -70,7 +70,7 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "python",
+      skillName: "Python",
       fontAwesomeClassname: "fab fa-python"
     },
     {
@@ -78,19 +78,19 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-cogs"
     },
     {
-      skillName: "Machine learning",
+      skillName: "Machine Learning",
       fontAwesomeClassname: "fas fa-robot"
     },
     { 
-      skillName: "Data visualization",
+      skillName: "Data Visualization",
       fontAwesomeClassname: "fas fa-chart-line"
     },
     {
-      skillName: "sql",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "docker",
+      skillName: "Docker",
       fontAwesomeClassname: "fab fa-docker"
     },
     {
