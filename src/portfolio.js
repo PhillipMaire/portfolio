@@ -279,7 +279,7 @@ const bigProjects = {
     },
 
     {
-      projectName: "Real-time audio playback for behavioral and audio frequency response balancing",
+      projectName: "Real-time audio playback for behavior and audio frequency response balancing for realistic audio playback",
       projectDesc:
         "",
       image: require("./assets/images/Audio balancing.png"),
