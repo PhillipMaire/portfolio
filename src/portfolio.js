@@ -264,8 +264,8 @@ const bigProjects = {
       projectName: "Scraping & Visualizing LinkedIn data and using GPT4 API to clean text data",
       projectDesc:
         "",
-      image: require("./assets/images/Audio balancing.png"),
-      imageAlt: "Audio balancing.png",
+      image: require("./assets/images/company map location project for website.gif"),
+      imageAlt: "company map location project for website.gif",
       footerLink: [
         {
           name: "medium article",
@@ -274,6 +274,20 @@ const bigProjects = {
         {
           name: "Github",
           url: "https://github.com/PhillipMaire/scrapifurs"
+        },
+      ]
+    },
+
+    {
+      projectName: "Real-time audio playback for behavioral and audio frequency response balancing",
+      projectDesc:
+        "",
+      image: require("./assets/images/Audio balancing.png"),
+      imageAlt: "Audio balancing.png",
+      footerLink: [
+        {
+          name: "Github",
+          url: "https://github.com/PhillipMaire/audio_behavior_realtime_playback"
         },
       ]
     },
