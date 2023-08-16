@@ -210,34 +210,76 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  
+  title: "Projects",
+  subtitle: "",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "WhACC: Whisker Automatic Contact Classifier with Expert Human-Level Performance",
+      projectDesc:
+        "A python package/pipeline to classify touch in video using a custom ResNetV2-Light GBM hybrid model",
+      image: require("./assets/images/ResNetV2_2048_features_clustered.gif"),
+      imageAlt: "ResNetV2_2048_features_clustered",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
-        }
-        //  you can add extra buttons here.
+          name: "Github",
+          url: "https://github.com/hireslab/whacc"
+        },
+        {
+          name: "Paper",
+          url: "https://www.biorxiv.org/content/10.1101/2023.05.19.541544v1.full.pdf"
+        },
       ]
     },
+
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "The Sensorimotor Basis of Whisker-Guided Anteroposterior Object Localization in Head-Fixed Mice",
+      projectDesc:
+        "",
+      image: require("./assets/images/Location_paper_behavior_2019.png"),
+      imageAlt: "Location_paper_behavior_2019",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
-        }
+          name: "Paper",
+          url: "https://www.cell.com/current-biology/fulltext/S0960-9822(19)30948-0"
+        },
       ]
-    }
+    },
+
+    {
+      projectName: "Independent representations of self-motion and object location in barrel cortex output",
+      projectDesc:
+        "",
+      image: require("./assets/images/trial_animation_2020_location_paper_neuro.gif"),
+      imageAlt: "trial_animation_2020_location_paper_neuro.gif",
+      footerLink: [
+        {
+          name: "Paper",
+          url: "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000882"
+        },
+      ]
+    },
+
+    {
+      projectName: "Scraping & Visualizing LinkedIn data and using GPT4 API to clean text data",
+      projectDesc:
+        "",
+      image: require("./assets/images/Audio balancing.png"),
+      imageAlt: "Audio balancing.png",
+      footerLink: [
+        {
+          name: "medium article",
+          url: "https://medium.com/@phillip.maire/scraping-visualizing-and-cleaning-data-from-linkedin-using-chatgpt4-for-educational-purposes-713c1ea20cb"
+        },
+        {
+          name: "Github",
+          url: "https://github.com/PhillipMaire/scrapifurs"
+        },
+      ]
+    },
+    
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
@@ -306,23 +348,17 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle:
-    "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+    "",
   displayMediumBlogs: "true", // Set true to display fetched medium blogs instead of hardcoded ones
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
+      url: "https://medium.com/@phillip.maire/scraping-visualizing-and-cleaning-data-from-linkedin-using-chatgpt4-for-educational-purposes-713c1ea20cb",
+      title: "Scraping, Visualizing and cleaning data from LinkedIn using chat GPT4 API",
       description:
-        "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+        "I talk about how I can clean data using GPT API which I collected to explore my 2nd degree connections on LinkedIn "
     },
-    {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description:
-        "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
-    }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
