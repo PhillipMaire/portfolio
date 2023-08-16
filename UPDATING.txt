@@ -1,5 +1,5 @@
 to update simply update src data, commit to github, wait for a sec 
-then open project in terminal and run npm deploy
+then open project in terminal and npm run deploy
 
 WEBSITE
 
