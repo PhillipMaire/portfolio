@@ -38,7 +38,7 @@ const socialMediaLinks = {
   gmail: "deep.data.phil@gmail.com",
   // gitlab: "____________",
   // facebook: "____________",
-  // medium: "____________",
+  medium: "https://medium.com/@phillip.maire",
   stackoverflow: "https://stackoverflow.com/users/13944456/phillip-maire",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
@@ -106,7 +106,6 @@ https://fontawesome.com/icons?d=gallery */
 };
 
 // Education Section
-
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
@@ -118,15 +117,15 @@ const educationInfo = {
       desc: "Developed a python package to save thousands of hours using a 2-stage deep learning model. Modeled neural time-series and animal behavior ",
       descBullets: [
         "WhACC: Whisker Automatic Contact Classifier with Expert Human-Level Performance. (in review, 2023) https://github.com/hireslab/whacc",
-        "Active touch remaps barrel cortex output from a representation of self-motion to object location. (PLoS Biology 2020)",
-        "The behavioral basis of whisker-guided anteroposterior object localization in head-fixed mice. (Current Biology 2019)",
+        "Independent representations of self-motion and object location in barrel cortex output. (PLoS Biology 2020)",
+        "The Sensorimotor Basis of Whisker-Guided Anteroposterior Object Localization in Head-Fixed Mice. (Current Biology 2019)",
         "NIH T32 grant recipient, Institutional National Research Service Award"
       ]
     },
     {
       schoolName: "University of Louisville",
       logo: require("./assets/job_images/University_of_Louisville_seal_white_backbround.png"),
-      subHeader: "Bachelor of Science, Psychology",
+      subHeader: "Bachelor of Science with Honors, Psychology",
       duration: "July 2009 - December 2013",
       desc: "Graduated with honors and completed a thesis on animal vision and neural response properties in the primary visual cortex",
       descBullets: ["Awarded a position in the Kentucky Biomedical Research Infrastructure Network (KBRIN) summer research program"]
@@ -171,7 +170,6 @@ const workExperiences = {
       "Developed an open-source Python package to classify video frames (WhACC)",
       "Developed data pipelines to massively improve data processing efficiency",
       "Modeled behavioral and neural time-series data"
-
       ]
     },
     {
@@ -252,10 +250,10 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "TITLE",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+        "subtitle",
+      image: require("./assets/images/ResNetV2_2048_features_clustered.gif"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {

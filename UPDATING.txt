@@ -1,0 +1,79 @@
+to update simply update src data, commit to github, wait for a sec 
+then open project in terminal and run npm deploy
+
+WEBSITE
+
+https://phillipmaire.github.io/portfolio/
+/Users/phil/Dropbox/HIRES_LAB/GitHub/portfolio/
+
+The above is working as expected with a few exception. 
+
+The main branch is updated with all the files (as seen below)
+.
+├── .DS_Store
+├── .all-contributorsrc
+├── .env
+├── .git
+├── .gitattributes
+├── .gitignore
+├── .pre-commit-config.yaml
+├── .prettierignore
+├── .prettierrc
+├── Dockerfile
+├── LICENSE
+├── build
+├── env.example
+├── fetch.js
+├── node_modules
+├── package-lock.json
+├── package.json
+├── public
+└── src
+
+
+While the gh-pages branch updates automatically when you run 
+npm run deploy
+From that directory 
+And this updates gh-pages branch with just the build file
+
+—— 
+Now why this doesn’t display all components correctly is beyond me. 
+
+I can get everything to work correctly using npm start ONLY WHEN the file 
+package.json
+Is edited so that instead of 
+"homepage": "https://phillipmaire.github.io/portfolio",
+It is something random like this for example 
+"homepage": “####”,
+Or if I just left the original website from the original repo 
+
+
+So something about this file and how it uses this variable kills the open source section.
+Just a note, the data is being pulled correctly from my git since I can see the 200 output message and also when using npm start (with edit from above) I can see it update properly. 
+
+
+cd /Users/phil/Dropbox/HIRES_LAB/GitHub/portfolio/
+npm start
+
+
+update resume 
+
+updated the names of the papers  --DONE
+
+- add link to papers --ALT--see (A)
+
+- add the medium post account --DONE
+
+- (A) update awards section look into other sections add pictures 
+
+
+
+
+
+
+
+
+
+
+
+
