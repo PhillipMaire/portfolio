@@ -158,7 +158,7 @@ const techStack = {
 
 
 const workExperiences = {
-  display: true, //Set it to true to show workExperiences Section
+  display: false, //Set it to true to show workExperiences Section
   experience: [
     {
       role: "Doctoral Researcher",
