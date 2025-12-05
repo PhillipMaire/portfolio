@@ -26,7 +26,7 @@ const greeting = {
     ["Your go-to data expert for transforming complex data into simple solutions: Data Science / MLOps / Data Engineering. PhD in Systems Neuroscience, USC, hireslab.org. I am passionate about all things related to data, information processing, and intelligent systems!"]
   ),
   resumeLink:
-    "https://www.dropbox.com/scl/fi/9ktqgbd0kt10jaefzivrp/Phillip_Maire_resume.pdf?rlkey=ixav5llahglz31twdfikbfx6f&st=poi5tcsc&dl=0", // Set to empty to hide the button
+    "https://www.dropbox.com/scl/fi/9ktqgbd0kt10jaefzivrp/Phillip_Maire_resume.pdf?rlkey=ixav5llahglz31twdfikbfx6f&st=poi5tcsc&dl=0", // Set to empty to hide the button!
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
