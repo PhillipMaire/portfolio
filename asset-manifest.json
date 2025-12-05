@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0489702c.css",
+    "main.js": "/portfolio/static/js/main.63e08473.js",
+    "static/css/64.bba8fa55.chunk.css": "/portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.ec95194b.chunk.js": "/portfolio/static/js/64.ec95194b.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.6b18baac.chunk.js": "/portfolio/static/js/769.6b18baac.chunk.js",
+    "static/media/ResNetV2_2048_features_clustered.gif": "/portfolio/static/media/ResNetV2_2048_features_clustered.b6b579ae086071b68d43.gif",
+    "static/media/profile_picture_greeting.png": "/portfolio/static/media/profile_picture_greeting.e2eff9ad62958a374283.png",
+    "static/media/company map location project for website.gif": "/portfolio/static/media/company map location project for website.751a64176e18a9bffc75.gif",
+    "static/media/trial_animation_2020_location_paper_neuro.gif": "/portfolio/static/media/trial_animation_2020_location_paper_neuro.39f49d1bdba74a582b97.gif",
+    "static/media/skills_photo.png": "/portfolio/static/media/skills_photo.667703234bb0790711f0.png",
+    "static/media/contact_photo.png": "/portfolio/static/media/contact_photo.1277b64a41d6da48a446.png",
+    "static/media/University_of_Louisville_seal_white_backbround.png": "/portfolio/static/media/University_of_Louisville_seal_white_backbround.64ffcc312b684a98b617.png",
+    "static/media/Audio balancing.png": "/portfolio/static/media/Audio balancing.917d1dab72311ebf35b8.png",
+    "static/media/uscLogoWhiteBackground.png": "/portfolio/static/media/uscLogoWhiteBackground.60dfd0e2e36a9f662148.png",
+    "static/media/Montserrat-Regular.ttf": "/portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Location_paper_behavior_2019.png": "/portfolio/static/media/Location_paper_behavior_2019.5ae65ea01d6c89a63be7.png",
+    "static/media/Agustina.woff": "/portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/uscLogoBackground.png": "/portfolio/static/media/uscLogoBackground.e84bad6463aac3d534af.png",
+    "static/media/googleAssistantLogo.webp": "/portfolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/skill.svg": "/portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/portfolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "index.html": "/portfolio/index.html",
+    "static/media/talksCardBack.svg": "/portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.0489702c.css.map": "/portfolio/static/css/main.0489702c.css.map",
+    "main.63e08473.js.map": "/portfolio/static/js/main.63e08473.js.map",
+    "64.bba8fa55.chunk.css.map": "/portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.ec95194b.chunk.js.map": "/portfolio/static/js/64.ec95194b.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.6b18baac.chunk.js.map": "/portfolio/static/js/769.6b18baac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0489702c.css",
+    "static/js/main.63e08473.js"
+  ]
+}
